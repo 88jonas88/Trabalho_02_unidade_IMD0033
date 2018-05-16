@@ -14,4 +14,4 @@ Docente
 Todos os dados aqui utilizados podem ser acessados no [site de dados abertos da UFRN.](dados.ufrn.br)
 
 
-[vídeo da explicação do código](https://www.youtube.com/watch?v=D9uzyMGtNVQ&feature=youtu.be)
+[Vídeo da explicação do código](https://www.youtube.com/watch?v=D9uzyMGtNVQ&feature=youtu.be)
